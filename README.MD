@@ -1,17 +1,16 @@
 # 🚀 Progression – Composant Web de Compteur en Pourcentage
 
-Ce projet propose un composant Web personnalisé `<counter-percent>` pour afficher de façon animée le pourcentage de progression d’une compétence ou d’une tâche, avec un cercle de progression stylisé et coloré.
+Ce projet propose un composant Web personnalisé `<Composant Web de Compteur en Pourcentage>` pour afficher de façon animée le pourcentage de progression d’une compétence ou d’une tâche, avec un cercle de progression stylisé et coloré.
 
 ---
 
 ## 🖥️ Technologies utilisées
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26/fff" alt="HTML5" width="40" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6/fff" alt="CSS3" width="40" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E/222" alt="JavaScript" width="40" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4/fff" alt="Tailwind CSS" width="40" />
- 
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" />
 </div>
 
 ---
