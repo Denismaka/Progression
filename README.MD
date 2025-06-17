@@ -58,7 +58,7 @@ Aucune : tout est en HTML, CSS et JavaScript natif.
 ## 👤 Auteur
 
 -   Inspiré par des animations de progression modernes
--   [GitHub](https://github.com/Denismaka) 🐱
+-   Adapté et stylisé par - [GitHub](https://github.com/Denismaka) 🐱
 
 ---
 
